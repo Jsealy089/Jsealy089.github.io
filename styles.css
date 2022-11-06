@@ -1,0 +1,27 @@
+main {
+  background-image: url(https://live-production.wcms.abc-cdn.net.au/1553082c6c7a139294b06e0560143318?impolicy=wcms_crop_resize&cropH=2000&cropW=2997&xPos=1&yPos=0&width=862&height=575);
+  background-repeat: no-repeat;
+  
+  background-position:  right;
+  background-position: bottom;
+
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: centre;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+
+ h2, p {
+  text-align: left;
+}
+
+
+
